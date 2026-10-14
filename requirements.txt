@@ -1,0 +1,6 @@
+streamlit
+python-docx
+psycopg2-binary
+pandas
+google-generativeai
+
