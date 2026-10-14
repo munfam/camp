@@ -443,7 +443,7 @@ def build_class_dashboard():
 # Streamlit UI
 # --------------------------
 st.set_page_config(page_title="Composition Checker", layout="wide")
-st.title("✍️ Composition Checker | MOE Style Marking (Postgres+Gemini)")
+st.title("✍️ Mun Compo LABs")
 
 # Initialise database
 try:
