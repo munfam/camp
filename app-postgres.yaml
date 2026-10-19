@@ -85,7 +85,7 @@ spec:
     spec:
       containers:
       - name: streamlit
-        image: composition-marker:v1
+        image: ghcr.io/munfam/camp:v3
         ports:
         - containerPort: 8501
         env:
